@@ -12,33 +12,40 @@
 
 ## 🛠 Tech Stack
 
-### 📊 Data Analysis 
+### 📊 Data Analysis & Science
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+
+### 📈 Visualization & BI
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-5C8DBC?logo=seaborn&logoColor=white)
 
-
-### 📈 Visualization
-![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white)
-
-
-### 🗃️ Databases & Querying
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+### 🗃️ Databases & ETL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![PowerPivot](https://img.shields.io/badge/Power_Pivot-5F2BEA?logo=microsoftexcel&logoColor=white)
 
-### ⚙️ Tools & Platforms
+### 📊 Spreadsheets & Office
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?logo=googlesheets&logoColor=white)
+
+### ⚙️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+### 🌐 Web & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
 ### 📚 Learning Next
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 ## 📈 Мои проекты
 - 🔍 [Анализ данных с Pandas](https://github.com/...) — пример проекта с визуализацией  
@@ -51,8 +58,8 @@
 - 📚 Изучить **Machine Learning** (Scikit-learn, TensorFlow, Pytorch)  
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=ТВОЙ_НИК&theme=dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=vision-friendly-dark)](https://github.com/Vasilichoff)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vasilichoff&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasilichoff&layout=compact&theme=vision-friendly-dark)](https://github.com/Vasilichoff)
 
 ## 🎮 Гифка для настроения
 ![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
@@ -60,4 +67,3 @@
 
 ### 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasilich_official)
-[![Email](https://img.shields.io/badge/-Скопировать_почту-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white&link=mailto:vasilich_official@mail.ru)](javascript:; 'vasilich_official@mail.ru')
