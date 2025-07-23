@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img width="500" src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyY/giphy.gif" alt="Digital data explosion">
+  <img width="500" src="https://media.giphy.com/media/jU9PVpqUvR0ZQzuMth/giphy.gif" alt="Interactive dashboard">
 </p>
 
 <h3 align="center">
