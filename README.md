@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img width="500" src="https://media.giphy.com/media/5ndklThG9vUUEdT8r7/giphy.gif" alt="SQL matrix style">
+  <img width="500" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" alt="Data analysis cyberpunk">
 </p>
 
 <h3 align="center">
