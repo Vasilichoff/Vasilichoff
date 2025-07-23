@@ -1,4 +1,11 @@
-
+<p align="center">
+  <svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#0d1117" />
+    <circle cx="50" cy="50" r="30" fill="#58a6ff" opacity="0.5">
+      <animate attributeName="cx" values="50;150;50" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
+  
 <p align="center">
   <img width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ1YzVqYzVqYzVqYzVqYzVqYzVqYzVqYzVqYzVqYzVqYzVqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2d7hy9ktXNDP2/giphy.gif">
 </p>
@@ -63,3 +70,5 @@
 
 ### 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasilich_official)
+
+</p>
