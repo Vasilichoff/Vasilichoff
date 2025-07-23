@@ -55,11 +55,7 @@
 ## 🎯 Мои цели
 - 🚀 Разработать обучение для начинающих по библиотекам для анализа данных  
 - 💼 Создать алгоритмического бота для трейдинга
-- 📚 Изучить **Machine Learning** (Scikit-learn, TensorFlow, Pytorch)  
-
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vasilichoff&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasilichoff&layout=compact&theme=vision-friendly-dark)](https://github.com/Vasilichoff)
+- 📚 Изучить **Machine Learning** (Scikit-learn, TensorFlow, SciPy, Pytorch)  
 
 ## 🎮 Гифка для настроения
 ![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
