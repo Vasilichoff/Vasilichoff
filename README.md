@@ -1,3 +1,11 @@
+<p align="center">
+  <img width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ1YzVqYzVqYzVqYzVqYzVqYzVqYzVqYzVqYzVqYzVqYzVqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2d7hy9ktXNDP2/giphy.gif">
+</p>
+
+<h1 align="center">
+  Привет, я Игорь!<br>
+  <sub><sup>Data Engineer из <img src="https://img.shields.io/badge/-Russia-000000?style=flat&logo=Flag&logoColor=white" height=16></sup></sub>
+</h1>
 # 🚀 Привет, я Игорь! 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&width=500&lines=Data+Alchemist+%F0%9F%92%AC;Python+%7C+SQL+%7C+Power+BI;Turning+numbers+into+gold+%F0%9F%92%B0;Open+to+collabs+%F0%9F%91%8B)](https://git.io/typing-svg)
