@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img width="500" src="https://media.giphy.com/media/jU9PVpqUvR0ZQzuMth/giphy.gif" alt="Interactive dashboard">
+  <img width="500" src="https://media.giphy.com/media/5ndklThG9vUUEdT8r7/giphy.gif" alt="SQL matrix style">
 </p>
 
 <h3 align="center">
