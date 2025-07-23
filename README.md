@@ -1,8 +1,11 @@
-<p align="center">
-  <svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="100%" fill="#0d1117" />
-    <circle cx="50" cy="50" r="30" fill="#58a6ff" opacity="0.5">
-      <animate attributeName="cx" values="50;150;50" dur="5s" repeatCount="indefinite"/>
+<div style="position:relative;">
+  <!-- Фон (выберите один вариант) -->
+  <img src="https://i.imgur.com/mYyTjDn.png" style="position:absolute; top:0; left:0; width:100%; height:100%; opacity:0.1; z-index:-1;"/>
+  <!-- ИЛИ для анимации -->
+  <svg width="100%" height="100%" style="position:absolute; top:0; left:0; z-index:-1; opacity:0.1;">
+    <rect width="100%" height="100%" fill="#0d1117"/>
+    <circle cx="10%" cy="20%" r="50" fill="#58a6ff" opacity="0.3">
+      <animate attributeName="cx" values="10%;90%;10%" dur="15s" repeatCount="indefinite"/>
     </circle>
   </svg>
   
@@ -71,4 +74,4 @@
 ### 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasilich_official)
 
-</p>
+</div>
