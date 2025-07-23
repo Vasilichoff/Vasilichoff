@@ -8,9 +8,7 @@
   <sub><sup>Аналитик данных из России</sub>
 </h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=500&color=00FFAA&background=000000&center=true&vCenter=true&width=600&height=80&lines=Привет,+я+Игорь+%F0%9F%91%8B;Data+Alchemist+%F0%9F%92%AC;Python+%7C+SQL+%7C+Power+BI+%F0%9F%93%8A;Turning+data+into+gold+%F0%9F%92%B0;Аналитик+из+Краснодара+%F0%9F%8C%87;Будущий+Team+Lead+%F0%9F%92%BB;Open+to+collabs+%F0%9F%93%A7" alt="Анимированный заголовок">
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00FFAA&width=600&lines=Привет,+я+Игорь!+%F0%9F%91%8B;Data+Alchemist+%F0%9F%92%AC;Python+%7C+SQL+%7C+Power+BI+%F0%9F%93%8A;Аналитик+из+Краснодара+%F0%9F%8F%8E;Turning+data+into+gold+%F0%9F%92%B0;Будущий+Team+Lead+%F0%9F%92%BB;Open+to+collabs+%F0%9F%93%A7)](https://git.io/typing-svg)
 
 ## 🛠 Мой стек технологий
 
