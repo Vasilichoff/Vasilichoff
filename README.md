@@ -4,12 +4,10 @@
 
 <h1 align="center">
   Привет, я Игорь<br>
-  <sub><sup>Аналитик данных из <img src="https://img.shields.io/badge/-Russia-000000?style=flat&logo=Flag&logoColor=white" height=16></sup></sub>
+  <sub><sup>Аналитик данных из России</sub>
 </h1>
-# 🚀 Привет, я Игорь! 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&width=500&lines=Data+Alchemist+%F0%9F%92%AC;Python+%7C+SQL+%7C+Power+BI;Turning+numbers+into+gold+%F0%9F%92%B0;Open+to+collabs+%F0%9F%91%8B)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2D00&width=435&lines=Разработчик+из+России+город+Краснодар;Люблю+код,+гифки+и+закономерности;Будущий+Team+Lead)](https://git.io/typing-svg)
 
 ## 🛠 Мой стек технологий
