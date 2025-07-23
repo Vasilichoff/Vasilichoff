@@ -10,22 +10,23 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00FFAA&width=600&lines=Data+Alchemist+%F0%9F%92%AC;Python+%7C+SQL+%7C+Power+BI+%F0%9F%93%8A;Аналитик+из+Краснодара+%F0%9F%8F%8E;Turning+data+into+gold+%F0%9F%92%B0;Будущий+Team+Lead+%F0%9F%92%BB;Open+to+collabs+%F0%9F%93%A7)](https://git.io/typing-svg)
 
-## 🛠 Мой стек технологий
+## 🔧 Мой стек
 
-### 🐍 **Python & Data Science**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white)
+### 📊 Data Analysis
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)
 
-### 📊 **Базы данных & Анализ данных**
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
-![Power Pivot](https://img.shields.io/badge/-Power_Pivot-5F2BEA?style=flat-square&logo=Microsoft-Excel&logoColor=white)
+### 📈 Визуализация
+![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white)
 
-### 🛠 **Инструменты**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+### 🗃️ Базы данных
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?logo=clickhouse&logoColor=black)
 
 ## 📈 Мои проекты
 - 🔍 [Анализ данных с Pandas](https://github.com/...) — пример проекта с визуализацией  
