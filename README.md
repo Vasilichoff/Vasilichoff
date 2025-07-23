@@ -1,40 +1,42 @@
 # Привет, меня зовут Игорь! 👋  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2D00&width=435&lines=Разработчик+из+России+город+Краснодар;Люблю+код,+гифки+и+закономерности;Open+Source+энтузиаст)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2D00&width=435&lines=Разработчик+из+России+город+Краснодар;Люблю+код,+гифки+и+закономерности;Будущий+Team+Lead)](https://git.io/typing-svg)
 
-## 🛠 Мой стек технологий  
+## 🛠 Мой стек технологий
 
-### 💻 Backend  
+### 🐍 **Python & Data Science**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white)
 
+### 📊 **Базы данных & Анализ данных**
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
+![Power Pivot](https://img.shields.io/badge/-Power_Pivot-5F2BEA?style=flat-square&logo=Microsoft-Excel&logoColor=white)
 
-### 🌐 Frontend  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-
-
-### 🛠 Инструменты  
+### 🛠 **Инструменты**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
-## 🚀 Мои планы  
+## 📈 Мои проекты
+- 🔍 [Анализ данных с Pandas](https://github.com/...) — пример проекта с визуализацией  
+- 📉 [SQL-запросы для бизнес-аналитики](https://github.com/...) — работа с базами данных  
+- 📊 [Excel + Power Pivot: Дашборды](https://github.com/...) — автоматизация отчётов  
 
-- 🔥 Изучить **Rust** и написать на нём что-то полезное  
-- 🌍 Создать **open-source проект** с друзьями  
-- 🎯 Прокачаться в **DevOps** (Kubernetes, AWS)  
+## 🎯 Мои цели
+- 📚 Изучить **Machine Learning** (Scikit-learn, TensorFlow)  
+- 🚀 Разработать свой **Telegram-бот** на Python  
+- 💼 Углубиться в **Power BI** для визуализации данных  
 
-## 📊 Моя активность  
+## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=ТВОЙ_НИК&theme=dark)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=vision-friendly-dark)](https://github.com/ТВОЙ_НИК)  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ-НИК&show_icons=true&theme=radical)](https://github.com/ТВОЙ-НИК)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ-НИК&layout=compact&theme=radical)](https://github.com/ТВОЙ-НИК)  
+## 🎮 Гифка для настроения
+![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
+*"Когда код наконец работает"*  
 
-## 🎮 Немного гифок для настроения  
-
-![Code](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F1dWJqZ2J6eW1xY2NkY2F4Y2F6ZzV6dGJqZzBqZzBqZzBqZzBqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHK3G3o7pe3v3Zv/giphy.gif)  
-*"Пишу код, пока кто-то спит"*  
-
-![Coffee](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z6eGJ6eGJ6eGJ6eGJ6eGJ6eGJ6eGJ6eGJ6eGJ6eGJ6eGJ6eGJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2d7hy9ktXNDP2/giphy.gif)  
-*"Без кофе — не разработчик"*  
-
-### 📫 Как связаться?  
+### 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/твой_ник)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/твой_ник)  
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:твоя_почта@gmail.com)  
