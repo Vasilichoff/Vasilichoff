@@ -47,4 +47,4 @@
 
 ### 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasilich_official)
-[![Email](https://img.shields.io/badge/-Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:vasilich_official@mail.ru?subject=Вопрос%20с%20GitHub)
+[![Email](https://img.shields.io/badge/-Скопировать_почту-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white&link=mailto:vasilich_official@mail.ru)](javascript:; 'vasilich_official@mail.ru')
