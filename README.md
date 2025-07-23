@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img width="500" src="https://i.giphy.com/media/jU9PVpqUvR0ZQzuMth/giphy.webp" alt="Power BI dashboard">
+  <img width="500" src="https://i.giphy.com/media/3o7TKz2eMXx6H5j7g4/giphy.webp" alt="Machine learning">
 </p>
 
 <h3 align="center">
