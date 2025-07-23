@@ -47,4 +47,4 @@
 
 ### 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasilich_official)
-[![Mail.ru](https://img.shields.io/badge/-Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:vasilich_official@mail.ru)
+[![Email](https://img.shields.io/badge/-Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:vasilich_official@mail.ru)
