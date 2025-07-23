@@ -57,8 +57,8 @@
 - 📚 Изучить **Machine Learning** (Scikit-learn, TensorFlow, SciPy, Pytorch)  
 
 ## 🎮 Гифка для настроения
-![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
-*"Когда код наконец работает"*  
+![Coding]([https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anZzNm14aHI0anQxc3N6ajdkZzJkaGlnaWV3cGRlbHRpMW1vMDU3bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B1WU3MS9xJ1fwAcCq1/giphy.gif))  
+
 
 ### 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasilich_official)
