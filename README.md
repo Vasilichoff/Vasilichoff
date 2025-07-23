@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">
-  Привет, я Игорь!<br>
-  <sub><sup>Data Engineer из <img src="https://img.shields.io/badge/-Russia-000000?style=flat&logo=Flag&logoColor=white" height=16></sup></sub>
+  Привет, я Игорь<br>
+  <sub><sup>Аналитик данных из <img src="https://img.shields.io/badge/-Russia-000000?style=flat&logo=Flag&logoColor=white" height=16></sup></sub>
 </h1>
 # 🚀 Привет, я Игорь! 
 
