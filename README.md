@@ -2,10 +2,35 @@
   <img width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ1YzVqYzVqYzVqYzVqYzVqYzVqYzVqYzVqYzVqYzVqYzVqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2d7hy9ktXNDP2/giphy.gif">
 </p>
 
-<h1 align="center">
-  Привет, я Игорь<br>
-  <sub><sup>Аналитик данных из России</sub>
+<h1 align="center" style="
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+  background: linear-gradient(90deg, #00dbde, #fc00ff, #00dbde);
+  background-size: 200% auto;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  animation: gradient 3s linear infinite;
+  margin-bottom: 10px;
+">
+  Привет, я Игорь
 </h1>
+
+<h3 align="center" style="
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 400;
+  color: #58a6ff;
+  margin-top: 0;
+">
+  Аналитик данных из России
+</h3>
+
+<style>
+  @keyframes gradient {
+    0% { background-position: 0% center; }
+    100% { background-position: 200% center; }
+  }
+</style>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00FFAA&width=600&lines=Data+Alchemist+%F0%9F%92%AC;Python+%7C+SQL+%7C+Power+BI+%F0%9F%93%8A;Аналитик+из+Краснодара+%F0%9F%8F%8E;Turning+data+into+gold+%F0%9F%92%B0;Будущий+Team+Lead+%F0%9F%92%BB;Open+to+collabs+%F0%9F%93%A7)](https://git.io/typing-svg)
 
