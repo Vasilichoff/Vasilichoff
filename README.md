@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZ5dWw2eG5hcTJtY2RlZ3FjYzQ3a2V6Z2J6eW1xY2NkY2F4Y2F6ZzV6dGJqZzBqZzBqZzBqZzBqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2d7hy9ktXNDP2/giphy.gif" alt="Dashboard animation">
+  <img width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZ5dWw2eG5hcTJtY2RlZ3FjYzQ3a2V6Z2J6eW1xY2NkY2F4Y2F6ZzV6dGJqZzBqZzBqZzBqZzBqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2d7hy9ktXNDP2/giphy.gif" alt="Algorithms visualization">
 </p>
 
 <h3 align="center">
