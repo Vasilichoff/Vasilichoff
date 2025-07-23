@@ -3,23 +3,10 @@
 </p>
 
 <h1 align="center">
-  <span style="
-    font-family: 'Arial', sans-serif;
-    font-weight: bold;
-    color: #58a6ff;
-    display: inline-block;
-    background: linear-gradient(90deg, #58a6ff, #8a2be2);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  ">Привет, я Игорь</span>
+  <span style="color: #58a6ff; font-size: 2em; font-weight: bold;">Привет, я Игорь</span>
 </h1>
-
 <h3 align="center">
-  <span style="
-    font-family: 'Arial', sans-serif;
-    color: #8a2be2;
-    font-style: italic;
-  ">Аналитик данных из России</span>
+  <span style="color: #8a2be2; font-size: 1.5em;">Аналитик данных из России</span>
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00FFAA&width=600&lines=Data+Alchemist+%F0%9F%92%AC;Python+%7C+SQL+%7C+Power+BI+%F0%9F%93%8A;Аналитик+из+Краснодара+%F0%9F%8F%8E;Turning+data+into+gold+%F0%9F%92%B0;Будущий+Team+Lead+%F0%9F%92%BB;Open+to+collabs+%F0%9F%93%A7)](https://git.io/typing-svg)
