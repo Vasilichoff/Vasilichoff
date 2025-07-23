@@ -46,5 +46,5 @@
 *"Когда код наконец работает"*  
 
 ### 📫 Контакты
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/@vasilich_official)  
-[![Mail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:vasilich_official@mail.ru)  
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasilich_official)
+[![Mail.ru](https://img.shields.io/badge/-Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:vasilich_official@mail.ru)
